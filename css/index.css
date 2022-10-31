@@ -3,7 +3,7 @@
     background-image: linear-gradient(0deg, rgba(242, 101, 101, 84%), rgba(242, 101, 101, 84%)),url(../images/Title.png);
     background-size: cover;
     background-repeat: no-repeat;
-    height: calc(50vh - 0px);
+    height: calc(60vh - 0px);
     display: flex;
     align-items: center;
     justify-content: center;
